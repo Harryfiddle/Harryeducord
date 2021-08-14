@@ -1,4 +1,4 @@
-I'm Harry, a Web Development, Biotech student working primarily with HTML, CSS and JavaScript!
+I'm Harry, a Web Development, Biotech student working primarily with Python, HTML, CSS and JavaScript!
 
 I spend most of my time working as an Owner at educord Discord, focusing mainly on our Educational infrastructure and technology.
 
